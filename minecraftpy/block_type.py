@@ -1,6 +1,6 @@
 import collider
 
-import models.cube # default model
+import models.cube # default model###
 
 class Block_type:
 	# new optional model argument (cube model by default)
